@@ -269,6 +269,10 @@ Open **`http://localhost:32400/ether/`** and complete the setup wizard. If Plex 
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Ether/)
+
 ## Things to know first
 
 - **What Ether is not:** Ether is not a local-file media server. It does not scan folders of video files on your disk, and it does not replace Plex Media Server, Jellyfin, or Emby for your personal media collection. Ether also ships no media content, no Usenet providers, no debrid accounts, no indexers, and no tracker definitions.
